@@ -1,1 +1,1 @@
-# Quantconnect
+QuantConnect strategies
